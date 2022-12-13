@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<updateDescriptor baseUrl="">
+  <entry targetMediaFileId="28" updatableVersionMin="" updatableVersionMax="" fileName="Metodos_Numericos_windows-x64_1_0.zip" newVersion="1.0" newMediaFileId="28" fileSize="44314257" md5Sum="7c277dbae512296a7f27d15399d5d153" sha256Sum="7950e79da8218a155f06d7ac73d39643050ab4ce8077e9311c919fd1159275f8" bundledJre="windows-amd64-17.0.5.tar.gz" archive="true" singleBundle="false">
+    <comment language="es" />
+  </entry>
+</updateDescriptor>
